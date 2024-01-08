@@ -128,3 +128,8 @@ For Each ws In Worksheets
 
 
 End Sub
+
+
+[!Note]
+I had trouble trying to write this code so I found a repository in GitHub by anniedonnelly which is what I used to help write my code. After I finished writing my code the output of my data on the excel sheet was not correct so I got some help from a learning assistant on AskBCS in slack where he helped me fix my problems with my percent change collumn and my bonus table. 
+
